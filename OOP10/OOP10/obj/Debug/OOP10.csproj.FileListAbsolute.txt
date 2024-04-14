@@ -1,0 +1,7 @@
+C:\Users\Иван PC\source\repos\OOP10\OOP10\bin\Debug\OOP10.exe.config
+C:\Users\Иван PC\source\repos\OOP10\OOP10\bin\Debug\OOP10.exe
+C:\Users\Иван PC\source\repos\OOP10\OOP10\bin\Debug\OOP10.pdb
+C:\Users\Иван PC\source\repos\OOP10\OOP10\obj\Debug\OOP10.csproj.AssemblyReference.cache
+C:\Users\Иван PC\source\repos\OOP10\OOP10\obj\Debug\OOP10.csproj.CoreCompileInputs.cache
+C:\Users\Иван PC\source\repos\OOP10\OOP10\obj\Debug\OOP10.exe
+C:\Users\Иван PC\source\repos\OOP10\OOP10\obj\Debug\OOP10.pdb
